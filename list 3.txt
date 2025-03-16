@@ -1,0 +1,35 @@
+<html>
+<head>
+</head>
+<body><p>preceding Text</p>
+<ol type="I" > 
+  <li>  list Item 1 </li> 
+  <ol type="a"> 
+  <li>Nested Item 1.1</li>
+  <li>Nested Item 2.2</li> 
+</ol>
+<li>List Item 2</li>
+  <ol type="1"> 
+  <li>nested item 2.1 </li>
+  <Li>nested item 2.2</li> 
+<ul> 
+<li style ="list-style-type:circle;">Nested Item 2.2.1</li>
+<li style ="list-style-type:circle;">Nested Item 2.2.2</li> 
+<ul> 
+<li style ="list-style-type:square;">Nested Item 2.2.2.1</li>
+<li style ="list-style-type:square;">Nested Item 2.2.2.2</li>
+ </ul>
+<li style ="list-style-type:circle;">Nested Item 2.2.3</li>
+</ul>
+<li>nested item 2.2.3</li> 
+</ol>
+ </li>
+ <li>list item 3</li> 
+<ul>
+<li style ="list-style-type:disc;"> nested item 3.1</li>
+<li style ="list-style-type:disc;"> nested item 3.1</li>
+<li style ="list-style-type:disc;"> nested item 3.1</li>
+</li>
+</ul>
+</body>
+</html>
